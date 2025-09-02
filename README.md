@@ -23,5 +23,3 @@ This app allows users to add, edit, mark as complete, and delete tasks, making t
 - **Version Control:** Git & GitHub
 
 ---
-
-## 📂 Project Structure
